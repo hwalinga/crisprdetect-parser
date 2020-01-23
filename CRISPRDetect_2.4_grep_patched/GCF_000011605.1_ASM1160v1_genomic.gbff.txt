@@ -1,0 +1,149 @@
+Array 1 4125861-4124152 		**** Predicted by CRISPRDetect 2.4 *** 
+>NC_004547-Erwinia carotovora subsp. atroseptica SCRI1043, complete genome.		Array_Orientation: Reverse
+
+  Position	Repeat	   %id	Spacer	Repeat_Sequence             	Spacer_Sequence                  	Insertion/Deletion
+==========	======	======	======	============================	=================================	==================
+   4125860	    28	 100.0	    32	............................	GCAGAGACTATCGATACGGTCTGGACGGATGC 	
+   4125800	    28	 100.0	    32	............................	TTAGGGTTGTAGAATCCCCTGAGCCATTGATT 	
+   4125740	    28	 100.0	    32	............................	TGTGTCGGATCGGCGTCGGCGTTGCCGTCAGG 	
+   4125680	    28	 100.0	    32	............................	CTCGGCATACGCCAGTTGGGGAATAACAGAGT 	
+   4125620	    28	 100.0	    32	............................	GCGAATCGTACAGTGGCCAGCGAGCGACGGTT 	
+   4125560	    28	 100.0	    32	............................	GTTTGCAGGGTCAGACCACGACACCATCGCCT 	
+   4125500	    28	 100.0	    32	............................	ACCCGCAATTTGACAGACGAGCAACGCAAGCT 	
+   4125440	    28	 100.0	    32	............................	AGCATCACGTCGTGGGTCAAATACTGCGACAG 	
+   4125380	    28	 100.0	    32	............................	CGATGGCGGAAGCGGTCAGGCTCAAGGACAAA 	
+   4125320	    28	 100.0	    32	............................	TGCACCTCACCGGTTGCCAGCTTACGCAGCGT 	
+   4125260	    28	 100.0	    32	............................	ATCGTTACACGGCACATAGATTGCGTCCGTAA 	
+   4125200	    28	 100.0	    32	............................	GTGTGGGCCAGCCGTACAGGTGATTACAAAGA 	
+   4125140	    28	 100.0	    32	............................	GGAAAGTTGATCTACACCGACGAGCCTAACGC 	
+   4125080	    28	 100.0	    32	............................	AGCGTAGACGCGAACTCATGCGCGAATTGCTC 	
+   4125020	    28	 100.0	    32	............................	TGTTGAGCTAACTGGTAGTTGCTGCGGTCTGG 	
+   4124960	    28	  96.4	    32	...........C................	GATCTACCAGCCTCAGACACATTAGCCCCCGC 	
+   4124900	    28	  92.9	    32	..........AC................	TGGCACGGATACATCCACTTCACTGACGCGCC 	
+   4124840	    28	  96.4	    32	.........A..................	AGTGTAGTGATATAGATTGGCCGGCTCATTCA 	
+   4124780	    28	 100.0	    32	............................	CGGTGATGAGTGCCTGATTATCTTTGCCGATC 	
+   4124720	    28	 100.0	    32	............................	TGAACTAACACGCCATAAGCAATATCAAGCGT 	
+   4124660	    28	 100.0	    32	............................	TGTCGCCATAACCACCTGTAATACAGGCTCGG 	
+   4124600	    28	 100.0	    32	............................	ACAGATAATTGATAGAGAGACGTCAATTAATG 	
+   4124540	    28	 100.0	    32	............................	GTCACATCGTCGTCCCTTCCGAGGACTATGGA 	
+   4124480	    28	  96.4	    32	...........C................	GTATCCAGTGACCGACGAATCAGCGCTCGACA 	
+   4124420	    28	  96.4	    32	...........C................	TGCGCATTGTGGACAAAATCGCGCGGCGTGTT 	
+   4124360	    28	  96.4	    32	...........C................	TCGATAAGGTCTGGGAGCGTATCCGAGTATCG 	
+   4124300	    28	 100.0	    32	............................	GTTTACGATTCTGCTCACGTCACTAATTTCAA 	
+   4124240	    28	  96.4	    33	.................T..........	CACGCGAGATCGCTGTTCAGGCCGAGGCAACCC	
+   4124179	    28	  85.7	     0	.....................C..TTC.	|                                	
+==========	======	======	======	============================	=================================	==================
+        29	    28	  98.5	    32	GTTCACTGCCGTACAGGCAGCTTAGAAA	                                 	       
+
+# Left flank :   GAGTTACGGAGGTGCCGGTTCCCAGCATCACCACGCTGGTATTGGCGATGGGAATATTCCAGTACAGAGACTGGTTTCCTTCCTCCGTGACATATTCGACACGACCACCGTTGACGAGAATACGGCAATGTTGGAGGTAATAAACATTGGCGCGTTTGGAATGCAGAATGGTTTTTAAATCCGAAGGGCTAAAGGCGTTATCCATAATGTATTTTCTTCCGTAATAGATAATAGCCATAACGCCAGCTAAATAAATCGCAGGCTAACTATTTGATAAGGAAAAATATAACTTTCAGAAAACTGATGAAAATCAGCCTATCACAGTTGCATGTGAAAGATGATGACCGCAAAAAATTTTACCCAAACGTAGACCCTTTTTATTTGGCCTATTTCACAGGATTAAAAATCAATGAGTTACAGATGGGGTTAAAAAAAGGGTTTTTACGAAGAAAATGGCAATTGCTGCTAATAAAACAAATCGTTAGAGTGATCGGGCTACA
+# Right flank :  CAGCACTCAGGCACTGCTGTCTGGTTATTATCGAGGTAGCACTGCGCCAGCGCTCAATGCGCTGTAGCTCTTAAATAACGTATTGTTGATGGCTTATTTTCGTAATATTTTCAAGTAACGGGTATCTTTGGGTGGGAATGGAAAATTGCAGATTGAATGTTATTAACATTTAAAAACCATCATTTTTCCGTTAAAGTGCACTTACAGGGAAATAGTTTGTTGACTTAAGTAAAATTCGAGGGAATGAGGCACTTGTGAAATACGATCCGGTTTTAAAAACGCTTGTTGATGATGACTATCGGTTAGAAGATCATCTTGATTTTAAAAAACAGCATGCAGATATTAACTATCAGAAATTACATGCTCAACTCAATGAAATAAATAACGATAACATTCATGCCATATTGACTGCGCAGGAAGCGACGTATTTCTTACAAACGTTATGCACACCTAATCCTAATCAATCGTGGAAAACAGCCATGTTTGGCTGTACCGATCCT
+
+# Questionable array : NO	 Score: 8.96
+# 	Score Detail : 1:1, 2:3, 3:0, 4:0.93, 5:0, 6:1, 7:1.03, 8:1, 9:1,
+# 	Score Legend : 1: cas, 2: likely_repeat, 3: motif_match, 4: overall_repeat_identity, 5: one_repeat_cluster, 6: exp_repeat_length, 7: exp_spacer_length, 8: spacer_identity, 9: log(total repeats) - log(total mutated repeats),
+# Primary repeat :     GTTCACTGCCGTACAGGCAGCTTAGAAA
+# Alternate repeat :   NA
+
+# Directional analysis summary from each method:
+# 	Motif ATTGAAA(N) match prediction:         NA Score: 0/4.5
+# 	A,T distribution in repeat prediction:     R [6,8] Score: 0.37/0.37
+# 	Reference repeat match prediction:         R [matched GTTCACTGCCGTACAGGCAGCTTAGAAA with 100% identity] Score: 4.5/4.5
+# 	Secondary Structural analysis prediction:  R [-7.70,-8.00] Score: 0.37/0.37
+# 	Array degeneracy analysis prediction:      R [5-0] Score: 0.41/0.41
+# 	AT richness analysis in flanks prediction: R [43.3-63.3]%AT Score: 0.27/0.27
+# 	Longer leader analysis prediction:         NA [256,296] Score: 0/0.18
+# 	----------------------------------------------------------------------------
+# 	Final direction:         R [0,5.92   Confidence: HIGH] 
+
+# Identified Cas genes:  Csy3:WP_011095183 [4133069-4134082]; Endonuclease Cas1:WP_011095179 [4126156-4127136]; I F Csy1:WP_011095181 [4130795-4132126]; I F Csy2:WP_011095182 [4132123-4133055]; I F endoribonuclease Cas6f:WP_011095184 [4134092-4134646]; I F helicase Cas3:WP_011095180 [4127133-4130429]; 
+# Array family : I-F [Matched known repeat from this family],   
+# Sequence source strain : SCRI1043
+# Taxonomy hierarchy : Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;Pectobacteriaceae; Pectobacterium.; Pectobacterium atrosepticum SCRI1043
+//
+
+
+Array 2 4134776-4134983 		**** Predicted by CRISPRDetect 2.4 *** 
+>NC_004547-Erwinia carotovora subsp. atroseptica SCRI1043, complete genome.		Array_Orientation: Forward
+
+  Position	Repeat	   %id	Spacer	Repeat_Sequence             	Spacer_Sequence                 	Insertion/Deletion
+==========	======	======	======	============================	================================	==================
+   4134776	    28	 100.0	    32	............................	TTTCAGTTCAAACAGGCCTTGCCAGCAGTTGA	
+   4134836	    28	 100.0	    32	............................	TGATTGAAGTCGGCTTTCTGAGGCGTAATGTT	
+   4134896	    28	  92.9	    32	............A....C..........	CATGCACCTTGGTTCAGATCAGCTTTTTGCGT	
+   4134956	    28	  71.4	     0	A..........CAC...C..T...AC..	|                               	
+==========	======	======	======	============================	================================	==================
+         4	    28	  91.1	    32	GTTCACTGCCGTGTAGGTAGCTTAGAAA	                                	       
+
+# Left flank :   ACGCGCTCTCTACGTTAGAAAAAACGTCCTGGCTGAAAGGATTACGGGATTACACGCAGGTTTCTGAGTGTAAAGTCGTACCCAATGGCGTGAAGTTTCGTACCGTGCGCCGCGTTCAGCTCAAGAGCAGCGCAGAACGTCTACGTCGACGTTCCGTTAGCAAAGGCTGGCTGACGGCGGCGGAAGCCGCAGCACGAATTCCCGACGCGGTGGAAAAACGCAGCGCACTGCCGTTTGTGCAAATAAAGAGCTTGTCCAACGGGCAAATGTTTTTTGTGTTTGTGGAACATGGCCCGCTACAGAACGCCCCTACCGCAGGCCGTTTCTCTTCCTACGGTTTAAGCACGGAAGCCACCGTTCCGTGGTTCTAACCCTTTTTTAACGGCCAACTGCAAGCTATTGATTGTTAATTGCCGTTGGTCGTTTTAATAAAAAAGGGGTTTTTCGCAAAAACAACATATTCTCTTTAATAATCTGGTTGTTAGTGTGAAAATTTAACA
+# Right flank :  AGCCTCTGGGCTTCCATTGCGTTGGAACACGCCCAGCCAATCAGAGCAATTATTTAACCCAATCTTCCAGTATCAGTTCCGGTACTCGCTCAAATTCTCTCAGATTATTGGTGACTAGTATGGCCTTAGCGCTGATAGCATGACCAGCGATGGCCGTATCGTTTGGACCAATAGGTGTGACAGCTGCAGCTAGTGCAATTTTAATTTTTGTGGTGGCGTCTACCGCTGCGCTATCCCAAGGTAATATCGCATCAAGTCGGCGGCAGAAAGCATCAACCAGCAGCATATGGCGCGGCGAAGCTTTTTTGCCAACCGCCCCAAAACGCATTTCAGCGTACGTGATAGCTGATACCACGATTCGATCTCGTCGCAGTGTGCATTGCTGCAACTTTTCAATCACCGCAGACGGGTGTTCACGCATAATGAAAGAACAGATATTAGTATCAAGCATGAACAAACGGCTCACAGTTCGAATCTCCCCTCTTCGACTACATCCTGAC
+
+# Questionable array : NO	 Score: 8.99
+# 	Score Detail : 1:1, 2:3, 3:0, 4:0.88, 5:0, 6:1, 7:2.02, 8:0.4, 9:0.69,
+# 	Score Legend : 1: cas, 2: likely_repeat, 3: motif_match, 4: overall_repeat_identity, 5: one_repeat_cluster, 6: exp_repeat_length, 7: exp_spacer_length, 8: spacer_identity, 9: log(total repeats) - log(total mutated repeats),
+# Primary repeat :     GTTCACTGCCGTGTAGGTAGCTTAGAAA
+# Alternate repeat :   NA
+
+# Directional analysis summary from each method:
+# 	Motif ATTGAAA(N) match prediction:         NA Score: 0/4.5
+# 	A,T distribution in repeat prediction:     NA [Repeat is AT rich:56.67%AT]
+# 	Reference repeat match prediction:         F [matched GTTCACTGCCGTGTAGGTAGTTTAGAAA with 97% identity] Score: 4.5/4.5
+# 	Secondary Structural analysis prediction:  F [-6.60,-2.40] Score: 0.37/0.37
+# 	Array degeneracy analysis prediction:      F [0-4] Score: 0.41/0.41
+# 	AT richness analysis in flanks prediction: F [73.3-53.3]%AT Score: 0.27/0.27
+# 	Longer leader analysis prediction:         NA [130,108] Score: 0/0.18
+# 	----------------------------------------------------------------------------
+# 	Final direction:         F [5.55,0   Confidence: HIGH] 
+
+# Identified Cas genes:  Csy3:WP_011095183 [4133069-4134082]; Endonuclease Cas1:WP_011095179 [4126156-4127136]; I F Csy1:WP_011095181 [4130795-4132126]; I F Csy2:WP_011095182 [4132123-4133055]; I F endoribonuclease Cas6f:WP_011095184 [4134092-4134646]; I F helicase Cas3:WP_011095180 [4127133-4130429]; 
+# Array family : I-F [Matched known repeat from this family],   
+# Sequence source strain : SCRI1043
+# Taxonomy hierarchy : Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;Pectobacteriaceae; Pectobacterium.; Pectobacterium atrosepticum SCRI1043
+//
+
+
+Array 3 4135961-4136589 		**** Predicted by CRISPRDetect 2.4 *** 
+>NC_004547-Erwinia carotovora subsp. atroseptica SCRI1043, complete genome.		Array_Orientation: Forward
+
+  Position	Repeat	   %id	Spacer	Repeat_Sequence             	Spacer_Sequence                  	Insertion/Deletion
+==========	======	======	======	============================	=================================	==================
+   4135961	    28	 100.0	    32	............................	AGCCTGAACCCGTCCGATTATCAAGATGGGAA 	
+   4136021	    28	 100.0	    32	............................	AGCTCCGACCGACATGCGCTTAAAGGCGGCGA 	
+   4136081	    28	 100.0	    33	............................	ATGCAGATATTGTAACTAAGCATCATATTGCAT	
+   4136142	    28	 100.0	    32	............................	TGTAGGCCATATAACAAATACTCAAAGATAAC 	
+   4136202	    28	  92.9	    32	.............T......T.......	TTGCGATTGGCACCGTTAACCGCTCAGTGACC 	
+   4136262	    28	  92.9	    32	A............T..............	TCCAGTACTCAGGATCGTGTTGGTACGATAAA 	
+   4136322	    28	  96.4	    32	.............T..............	AGTTCTGACACTCGTTAAACGTCATAACGCGC 	
+   4136382	    28	 100.0	    32	............................	GAAATATCCACCTGGACACTGTCCATAAAGAA 	
+   4136442	    28	  96.4	    32	.............T..............	ACGACGGATAGTCTCTGTCTGACGAACGCAAC 	
+   4136502	    28	  96.4	    32	.............T..............	GCCCTGAAAAAAATGGGTTGTGATGACCATGC 	
+   4136562	    28	  78.6	     0	............G.......T.C..TGT	|                                	
+==========	======	======	======	============================	=================================	==================
+        11	    28	  95.8	    32	GTTCACTGCCGTACAGGCAGCTTAGAAA	                                 	       
+
+# Left flank :   CCCTCTTCGACTACATCCTGACGTTCTGTCATAAAGTCTGCGTCAGCACGCTCTTCTTGCAGAAAAGAATGCCAATTGGGTTTGACTGGGCGCAACATGATGGTATCCCCTTCACGCACGATCTCCAGTTCATTGACGCCTTCAAAGTCCATATCACGCGGCAAGCGAATAGCACGGTTATTACCATTTTTAAATACTGAGACAATACGCATAATGCACCTCCTCTTAATACAGAATTCAGCAAGCCGCTAGCCTGACTAAAACATAGGTTAAGTATAGATTTGAATCGTTCTCTTGTATATCCGCGGCATATGTACGCACCTAACATAGGTCTACCGAGAATAGATAAAATCGTTACCACAGGGTTGGCACCCTTTTTTCATGGACGCTTGTAACTCATTGATTTTTAATATCGATTAAGCGCTATGATAAAAAAGGGTTTTTCGGGAGAAATGGTTTATTTTCTTTTAAAATTAGGTAACTACCGTAAAATAGGAACG
+# Right flank :  TTTATCGAGATAAGTCTCTAGCACGACTCACCTCAAGGGTGTTATTCCCCATTCAGCGTGACAACCAGCGAGCGGCTGCCGCCGTGGTTGCGGTGTTCGCACAGGTAAATGCCCTGCCAAGTGCCGATGTTCAGGCGTCCGTTGGTGATGGGAATCGTCAGGCTATTTCCTAGCAGGCTGCCTTTCAGGTGCGCGGGCATGTCGTCGCTACCTTCATAAGTATGGCGGTAGTACGGCTCATCCTCCGGCACTAAACGATTAAAGAAGCTCTCGAAATCCTGCCGTACCGTGGGATCGGCATTCTCATTAATCGTCAGCGCCGCCGAAGTATGTTTGATGAACACATGCATCAACCCGACCTTTATCTGGCGCAGTGCGACAACCTGCGCCAGTATTTCGTCAGTCACCAGATGGAAGCCTCTGGCTTTCGGCTTCAGGCGGATTTCATATTGCGTCCACATGATTTGGCCTCTCGCTATCAGGCTTCGCGAGCCAGAATA
+
+# Questionable array : NO	 Score: 8.64
+# 	Score Detail : 1:1, 2:3, 3:0, 4:0.79, 5:0, 6:1, 7:1.06, 8:1, 9:0.79,
+# 	Score Legend : 1: cas, 2: likely_repeat, 3: motif_match, 4: overall_repeat_identity, 5: one_repeat_cluster, 6: exp_repeat_length, 7: exp_spacer_length, 8: spacer_identity, 9: log(total repeats) - log(total mutated repeats),
+# Primary repeat :     GTTCACTGCCGTACAGGCAGCTTAGAAA
+# Alternate repeat :   GTTCACTGCCGTATAGGCAGCTTAGAAA
+
+# Directional analysis summary from each method:
+# 	Motif ATTGAAA(N) match prediction:         NA Score: 0/4.5
+# 	A,T distribution in repeat prediction:     F [8,6] Score: 0.37/0.37
+# 	Reference repeat match prediction:         F [matched GTTCACTGCCGTACAGGCAGCTTAGAAA with 100% identity] Score: 4.5/4.5
+# 	Secondary Structural analysis prediction:  F [-8.00,-7.70] Score: 0.37/0.37
+# 	Array degeneracy analysis prediction:      F [0-7] Score: 0.41/0.41
+# 	AT richness analysis in flanks prediction: F [70.0-53.3]%AT Score: 0.27/0.27
+# 	Longer leader analysis prediction:         F [290,41] Score: 0.18/0.18
+# 	----------------------------------------------------------------------------
+# 	Final direction:         F [6.1,0   Confidence: HIGH] 
+
+# Identified Cas genes:  Csy3:WP_011095183 [4133069-4134082]; Endonuclease Cas1:WP_011095179 [4126156-4127136]; I F Csy1:WP_011095181 [4130795-4132126]; I F Csy2:WP_011095182 [4132123-4133055]; I F endoribonuclease Cas6f:WP_011095184 [4134092-4134646]; I F helicase Cas3:WP_011095180 [4127133-4130429]; 
+# Array family : I-F [Matched known repeat from this family],   
+# Sequence source strain : SCRI1043
+# Taxonomy hierarchy : Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;Pectobacteriaceae; Pectobacterium.; Pectobacterium atrosepticum SCRI1043
+//
+
+

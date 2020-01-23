@@ -1,0 +1,209 @@
+Array 1 184-33 		**** Predicted by CRISPRDetect 2.4 *** 
+>NZ_AWXH01000001-Serratia sp. ATCC 39006 ctg1, whole genome shotgun sequence.		Array_Orientation: Reverse
+
+  Position	Repeat	   %id	Spacer	Repeat_Sequence              	Spacer_Sequence                 	Insertion/Deletion
+==========	======	======	======	=============================	================================	==================
+       183	    29	 100.0	    32	.............................	TAAACAATTGCAGGACCAGCAAAATCTGTGGC	
+       122	    29	  96.6	    32	............................A	CAAAACGACTAAACGCCTGCTGACTTAACAGC	
+        61	    29	 100.0	     0	.............................	|                               	
+==========	======	======	======	=============================	================================	==================
+         3	    29	  98.9	    32	GTGTTCCCCGCACCCGCGGGGATAAACCG	                                	       
+
+# Left flank :   TTGATTGAAGCGGTGTTGGCGGCCGGAGAAATAGAGCCGCCGCAACCGCCTGCTGACGCACAACCTCCAGCTATTCCTGAGCCTGCGCCATTCGGTGATGTCGGTCACCGTGGGAGCGGCGGATGAGTATGTTGGTGGTCGTGACGGAAAATGTGCCGCCGCGTCTGCGTGGTCGGCTGGCGATATGGTTGTTGGAAGTTCGTGCTGGTGTCTATGTGGGTGAAACTTCGCGGCGTATACGGGAAATGATCTGGCAACAGATTGTGGAACTGGCCGAACAAGGGAATGTGGTGATGGCGTGGGCGACCAATACGGAATCTGGTTTCGAGTTCCAGACCTGGGGCGAAAACCGCCGAATGCCGGTGGATCTGGATGGACTGCGGTTAGTCTCTTTTCACCCCATTGAAAATCAATAAGTTAGTGTTCTTTAACAAGCAGGAAAAATTGGTGGATTTTTTAAGACTAGAAAATTCCTTATAAAACAGGTATATATTTTTAGA
+# Right flank :  GTCATCGTTAAATCCTCAGCCTGTTCGCGAGAC
+
+# Questionable array : NO	 Score: 9.06
+# 	Score Detail : 1:1, 2:3, 3:0, 4:0.95, 5:0, 6:1, 7:2.02, 8:0.4, 9:0.69,
+# 	Score Legend : 1: cas, 2: likely_repeat, 3: motif_match, 4: overall_repeat_identity, 5: one_repeat_cluster, 6: exp_repeat_length, 7: exp_spacer_length, 8: spacer_identity, 9: log(total repeats) - log(total mutated repeats),
+# Primary repeat :     GTGTTCCCCGCACCCGCGGGGATAAACCG
+# Alternate repeat :   NA
+
+# Directional analysis summary from each method:
+# 	Motif ATTGAAA(N) match prediction:         NA Score: 0/4.5
+# 	A,T distribution in repeat prediction:     R [4,5] Score: 0.37/0.37
+# 	Reference repeat match prediction:         R [matched GTGTTCCCCGCACCAGCGGGGATAAACCG with 97% identity] Score: 4.5/4.5
+# 	Secondary Structural analysis prediction:  NA [-14.30,-14.30] Score: 0/0.37
+# 	Array degeneracy analysis prediction:      F [0-1] Score: 0.41/0.41
+# 	AT richness analysis in flanks prediction: R [26.7-78.3]%AT Score: 0.27/0.27
+# 	Longer leader analysis prediction:         R [35,83] Score: 0.18/0.18
+# 	----------------------------------------------------------------------------
+# 	Final direction:         R [0.41,5.32   Confidence: HIGH] 
+
+# Identified Cas genes:  Endonuclease Cas1:WP_021013286 [558-1481]; Helicase/endonuclease Cas3:WP_037380268 [6183-8927]; I E Cas5:WP_021013288 [2152-2886]; I E Cas6e:WP_021013287 [1505-2152]; I E Cas7:WP_021013289 [2898-3956]; I E Cse1:WP_021013291 [4575-6116]; I E Cse2:WP_021013290 [3959-4582]; I E endoribonuclease Cas2:WP_021013285 [268-561]; 
+# Array family : I-E [Matched known repeat from this family],   
+# Sequence source strain : ATCC 39006
+# Taxonomy hierarchy : Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;Yersiniaceae; Serratia.; Serratia sp. ATCC 39006
+//
+
+
+Array 1 346241-345973 		**** Predicted by CRISPRDetect 2.4 *** 
+>NZ_AWXH01000005-Serratia sp. ATCC 39006 ctg5, whole genome shotgun sequence.		Array_Orientation: Reverse
+
+  Position	Repeat	   %id	Spacer	Repeat_Sequence             	Spacer_Sequence                 	Insertion/Deletion
+==========	======	======	======	============================	================================	==================
+    346240	    28	 100.0	    32	............................	AAAAACGCCAAAAAGTTTAGCTCAGGCTCCTT	
+    346180	    28	 100.0	    32	............................	ATGTATCAGCTGCGGGAGGCATCACGATGGAC	
+    346120	    28	 100.0	    32	............................	AGAAAAACATTCGTTACGACAATTTTTGAAGG	
+    346060	    28	 100.0	    32	............................	AAGAAGACGGGACATCGGGGACTGCCAGTTCT	
+    346000	    28	  78.6	     0	...........C........T.G..TCT	|                               	
+==========	======	======	======	============================	================================	==================
+         5	    28	  95.7	    32	GTTCACTGCCGTACAGGCAGCTTAGAAA	                                	       
+
+# Left flank :   AAATAAACACAAAACTGGCGAATCCCATATCA
+# Right flank :  GGCTAAGAAGCGCCACTGGAGTAACCAGATTCACCATCAATAATGTGGTGGTTCGGTAAACTCCGGTGGCTTGTTACTGCCCGAGACGGGCTTACTGTACAGCGGCGAAGGCTTCCGCTACTCGTTGTACGTTATCGTGGTTGAGGCCAGCCATACAAACGCGACCGCTGGCGATCAGGTATACGCCGAACTCTTCCCGCAGGCGATCAACCTGTTCCGGGCTGAAGCCGGTATAGCTGAACATGCCACGCTGGGTCAGCAGATAATCAAAGTTCCGTGTTGGTAGCGCTTTTTTCAGGGTATCGACCAGTGTCTGACGCATAGCAATAATACGGATGCGCATCGCTTCCACTTCCGCTTTCCACTCCGCATTCAACGTGGCGTCATTCAGCACACGGGAAACCACCTGCGCACCGAAGCTCGGCGGGCTGGAGTAGTTGCGACGAACTGTAGCTTTCAATTGACCCAGTACACGCACTGCGGCTTCCTGATCTTCACAA
+
+# Questionable array : NO	 Score: 7.94
+# 	Score Detail : 1:0, 2:3, 3:0, 4:0.79, 5:0, 6:1, 7:1.35, 8:0.8, 9:1,
+# 	Score Legend : 1: cas, 2: likely_repeat, 3: motif_match, 4: overall_repeat_identity, 5: one_repeat_cluster, 6: exp_repeat_length, 7: exp_spacer_length, 8: spacer_identity, 9: log(total repeats) - log(total mutated repeats),
+# Primary repeat :     GTTCACTGCCGTACAGGCAGCTTAGAAA
+# Alternate repeat :   NA
+
+# Directional analysis summary from each method:
+# 	Motif ATTGAAA(N) match prediction:         NA Score: 0/4.5
+# 	A,T distribution in repeat prediction:     NA [Repeat is AT rich:51.72%AT]
+# 	Reference repeat match prediction:         R [matched GTTCACTGCCGTACAGGCAGCTTAGAAA with 100% identity] Score: 4.5/4.5
+# 	Secondary Structural analysis prediction:  R [-7.70,-8.00] Score: 0.37/0.37
+# 	Array degeneracy analysis prediction:      R [7-0] Score: 0.41/0.41
+# 	AT richness analysis in flanks prediction: F [53.3-36.7]%AT Score: 0.27/0.27
+# 	Longer leader analysis prediction:         F [92,34] Score: 0.18/0.18
+# 	----------------------------------------------------------------------------
+# 	Final direction:         R [0.45,5.28   Confidence: HIGH] 
+
+# Identified Cas genes:  NA
+# Array family : I-F [Matched known repeat from this family],   
+# Sequence source strain : ATCC 39006
+# Taxonomy hierarchy : Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;Yersiniaceae; Serratia.; Serratia sp. ATCC 39006
+//
+
+
+Array 1 346850-346517 		**** Predicted by CRISPRDetect 2.4 *** 
+>NZ_AWXH01000004-Serratia sp. ATCC 39006 ctg4, whole genome shotgun sequence.		Array_Orientation: Reverse
+
+  Position	Repeat	   %id	Spacer	Repeat_Sequence              	Spacer_Sequence                 	Insertion/Deletion
+==========	======	======	======	=============================	================================	==================
+    346849	    29	  96.6	    32	..............T..............	CTTGCTGCTCGTCAGCCTGAGCGTCAGCTGGA	
+    346788	    29	 100.0	    32	.............................	CCACCAACCAGGAACTTTTTCACCATTCTCCC	
+    346727	    29	  96.6	    32	............T................	AGTACGTCCAAAAAATAAAATTGGGCGCGGTT	
+    346666	    29	 100.0	    32	.............................	ATGGCCGAAATTCAGGCCAAAAGCGTGGCGGC	
+    346605	    29	 100.0	    32	.............................	TAACAAAGGTAAAGGAGAAAATAACACTTTTC	
+    346544	    28	  93.1	     0	.........................-.T.	|                               	
+==========	======	======	======	=============================	================================	==================
+         6	    29	  97.7	    32	GTGTTCCCCGCACCCGCGGGGATAAACCG	                                	       
+
+# Left flank :   GGTATCCGCTTTGTTGAAGTCGCACT
+# Right flank :  GATCCTCTGTCAGTGTTATGTAGTCTCCTGTACCCCGCAGGGACAATAGCTTTATTTTTGTAATAAATAGTTACCGTATTTTCCATTCTTTATCGGTTATGGAGCACGTTAATTTGCTTTGACTGTCTTTATTTCGTTCAGAAAGTGGCATGATGTGCAGTTCCGATCGCAATACTGATTACCGTAGCACTAACAGTGGACTGATGTTGTTGAGCCGGGGAGGGACCGTGGAAGCAGACAATATTCTGGGAGTGATTTCTCGTTATCTTAAAAAACTGCATGTGTTGACGTTGTGTGTCGGCAGTGGTGATGATTTGTGGTGCGCCAACTGTTTTTATACGTTTGATGAACGTCAGGTGGCGTTTTATCTGATGACGGAAGCGAATACCAGACACGGTGAAATGATGCTGAGGCATCCTCGGGTGGCGGGTACGGTTAATGGCCAACCCAAGAGTGTACTGCTGATTAAAGGTGTGCAATTTTTAGGGGAAATAGCCTTG
+
+# Questionable array : NO	 Score: 9.15
+# 	Score Detail : 1:1, 2:3, 3:0, 4:0.89, 5:0, 6:1, 7:1.26, 8:1, 9:1,
+# 	Score Legend : 1: cas, 2: likely_repeat, 3: motif_match, 4: overall_repeat_identity, 5: one_repeat_cluster, 6: exp_repeat_length, 7: exp_spacer_length, 8: spacer_identity, 9: log(total repeats) - log(total mutated repeats),
+# Primary repeat :     GTGTTCCCCGCACCCGCGGGGATAAACCG
+# Alternate repeat :   NA
+
+# Directional analysis summary from each method:
+# 	Motif ATTGAAA(N) match prediction:         NA Score: 0/4.5
+# 	A,T distribution in repeat prediction:     R [4,5] Score: 0.37/0.37
+# 	Reference repeat match prediction:         R [matched GTGTTCCCCGCACCAGCGGGGATAAACCG with 97% identity] Score: 4.5/4.5
+# 	Secondary Structural analysis prediction:  R [-12.10,-12.70] Score: 0.37/0.37
+# 	Array degeneracy analysis prediction:      NA [2-2] Score: 0/0.41
+# 	AT richness analysis in flanks prediction: F [55.0-23.3]%AT Score: 0.27/0.27
+# 	Longer leader analysis prediction:         F [229,28] Score: 0.18/0.18
+# 	----------------------------------------------------------------------------
+# 	Final direction:         R [0.45,5.24   Confidence: HIGH] 
+
+# Identified Cas genes:  Csy3:WP_021017053 [6982-7989]; Endonuclease Cas1:WP_021017049 [420-1400]; I F Csy1:WP_021017051 [4705-6039]; I F Csy2:WP_021017052 [6036-6971]; I F endoribonuclease Cas6f:WP_021017054 [7999-8553]; I F helicase Cas3:WP_021017050 [1397-4681]; 
+# Array family : I-E [Matched known repeat from this family],   
+# Sequence source strain : ATCC 39006
+# Taxonomy hierarchy : Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;Yersiniaceae; Serratia.; Serratia sp. ATCC 39006
+//
+
+
+Array 1 1375010-1374412 		**** Predicted by CRISPRDetect 2.4 *** 
+>NZ_AWXH01000002-Serratia sp. ATCC 39006 ctg2, whole genome shotgun sequence.		Array_Orientation: Reverse
+
+  Position	Repeat	   %id	Spacer	Repeat_Sequence                      	Spacer_Sequence                   	Insertion/Deletion
+==========	======	======	======	=====================================	==================================	==================
+   1375009	    37	 100.0	    33	.....................................	TTATTATCTGGATATGTATCCCCACAATCTATA 	
+   1374939	    37	 100.0	    33	.....................................	ATCAATGCATCGCCAGACAGTGAATTGACTACT 	
+   1374869	    37	 100.0	    33	.....................................	TTGGTCACCCGGTTTTGTTTCTATCAAAGGTAC 	
+   1374799	    37	 100.0	    33	.....................................	ACTAGATTTCCTTCCGTTTCATTAAGCCAATAA 	
+   1374729	    37	 100.0	    34	.....................................	AATTCACGGGCAGCGGCCTCCTCCACAGAGTTGT	
+   1374658	    37	 100.0	    33	.....................................	AATGACCCGCTAGCCGCCGCGCTTACCTTTACC 	
+   1374588	    37	 100.0	    33	.....................................	CAATTTAGCTTTAAGCTCTGCTACACAGTCTCG 	
+   1374518	    37	  97.3	    33	................T....................	TGAAAACTTTCACTTCTTTATGAGTAGCTCTTT 	
+   1374448	    37	  91.9	     0	...............................A..A.A	|                                 	
+==========	======	======	======	=====================================	==================================	==================
+         9	    37	  98.8	    33	GTCCGTAAGGACGTTCCCTGACTGAAGGGATTAAGAC	                                  	       
+
+# Left flank :   ATAATACTCAAAAAATAACTTTCATTAACCTCCCCCATCGTTCCATCATGCGTAATCGTTCGGGATAAATTTAATTGAGAGGCCAATAGTTGTTGTTGTAAATTAAAGGACTGTTTTAAAAACTCCCTACCATTAATTCTAGATAACTTTTTTGCCTGATTAGTCATATTCCTTTCCTGATTTTAATTTTCTGAATATCCACCCGGTGGGAAAGTATATCGCTTATCCATAAATTTTCCCGCGATATCAGCCCCCATTCAGGCACAGATTTTGCTTATTTTCCCCGCCGCGCCCGTCGTTCTCCGGCAGGCCGATTTTTCGCACAAAAAACAAGCAAAAATAAAATTATGCCGATAACAACTCACATGACATCAATCTATTAGCGACACAACGTTTGCACTGGCACCACTTTTGCTTAAAAACGTATTTTTTGCGACGGGAAAGCAGAAAAAGTCAGGCTTGCTTGATCAAACAAAAACAATGGGTTATAAATTTTCATT
+# Right flank :  CCCCTCAATTTTGAGGGGTTTTTTTATGGTGTTTTTATACTTAGTCAATTTATGCCGCTATCTTGGGTCTCAATGGAATCGGCTGTACAGAGCATTGTCTCTTATTAGGTTAATAAAACTGGCATTGCTAAAAAGCTGAGTATGAGTAAAGAAACTTCATATCGTTATCTCAGAACAAGGATTGAAAACGGTCGCTTTTCAAGCATAATTATATTAACCTGTAAGAATAGTTACTTTTTTAAAAAGGATATTATTTTGAAAAGTAAGCAAAATTTTCTGAAAGATGAAAAATCCGACTGGGACATTGAGCTGGGTTTACTTGAGCAAAATTCTTATTCCGCTGATTTGAAAGAAGCTGTAAGCGCTACTTTCAAAGTAGCAAGTGTTGTACTTTCTTTTTTACCAGATAAGAAACGCCGCAGTTCTTCTCTCACTGACGGGTTGTATGAAAATACCTCAAACGATGGCTGGCAACACGGCTCTCAAGGGTATGGTTTTTA
+
+# Questionable array : NO	 Score: 8.42
+# 	Score Detail : 1:1, 2:3, 3:0, 4:0.94, 5:0, 6:1, 7:0.48, 8:1, 9:1,
+# 	Score Legend : 1: cas, 2: likely_repeat, 3: motif_match, 4: overall_repeat_identity, 5: one_repeat_cluster, 6: exp_repeat_length, 7: exp_spacer_length, 8: spacer_identity, 9: log(total repeats) - log(total mutated repeats),
+# Primary repeat :     GTCCGTAAGGACGTTCCCTGACTGAAGGGATTAAGAC
+# Alternate repeat :   NA
+
+# Directional analysis summary from each method:
+# 	Motif ATTGAAA(N) match prediction:         NA Score: 0/4.5
+# 	A,T distribution in repeat prediction:     R [8,10] Score: 0.37/0.37
+# 	Reference repeat match prediction:         NA 
+# 	Secondary Structural analysis prediction:  R [-6.10,-7.50] Score: 0.37/0.37
+# 	Array degeneracy analysis prediction:      R [4-0] Score: 0.41/0.41
+# 	AT richness analysis in flanks prediction: NA [65.0-70.0]%AT Score: 0/0.27
+# 	Longer leader analysis prediction:         NA [257,334] Score: 0/0.18
+# 	----------------------------------------------------------------------------
+# 	Final direction:         R [0,1.15   Confidence: HIGH] 
+
+# Identified Cas genes:  Cas1:WP_021014796 [1384742-1385623]; Cas6:WP_021014789 [1376148-1377071]; III A Cas10:WP_021014794 [1380891-1383341]; III A Csm2:WP_021014793 [1380483-1380866]; III A RAMP Csm3:WP_021014792 [1379724-1380470]; 
+# Array family : NA
+# Sequence source strain : ATCC 39006
+# Taxonomy hierarchy : Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;Yersiniaceae; Serratia.; Serratia sp. ATCC 39006
+//
+
+
+Array 2 1384202-1383475 		**** Predicted by CRISPRDetect 2.4 *** 
+>NZ_AWXH01000002-Serratia sp. ATCC 39006 ctg2, whole genome shotgun sequence.		Array_Orientation: Reverse
+
+  Position	Repeat	   %id	Spacer	Repeat_Sequence                      	Spacer_Sequence                   	Insertion/Deletion
+==========	======	======	======	=====================================	==================================	==================
+   1384201	    37	 100.0	    34	.....................................	CCTAATTTCTTTCACACTACGTGTCGGTTTTTTT	
+   1384130	    37	 100.0	    34	.....................................	TTAAATGGGTTGATATTTTTAACGGAGTCTTTTA	
+   1384059	    37	 100.0	    33	.....................................	TTACACGGTTGCGCGTCTAAGATTTCTTTTAAG 	
+   1383989	    37	 100.0	    33	.....................................	TAAGCGGCAGAACGGGCGGTATAGGCGGCATAA 	
+   1383919	    37	 100.0	    34	.....................................	CATTTACAGAACCTGTTCCACTTAATGAAGTTGC	
+   1383848	    37	 100.0	    34	.....................................	CAATCGGCCCCATAAATCACCTCTTTATGCATGG	
+   1383777	    37	 100.0	    32	.....................................	ATTACAGAATCATTGTCCTGACACGGTTCTGG  	
+   1383708	    37	 100.0	    32	.....................................	GAAGAACAAAGCTCGCCCAAAAAATAGTTTTT  	
+   1383639	    37	 100.0	    33	.....................................	TCTAATTTCTTATTAGTAGGTACTATTTCTTTG 	
+   1383569	    37	 100.0	    22	.....................................	ATAGGCAGCATAGACGGCATAG            	Deletion [1383511]
+   1383510	    36	  75.7	     0	.....C..A...T.-........C........TTCT.	|                                 	
+==========	======	======	======	=====================================	==================================	==================
+        11	    37	  97.8	    32	GTCCTTACGGACGCTCCCTGACTGAAGGGATTAAGAC	                                  	       
+
+# Left flank :   CGGCTGCGAAAAATGCAGCGACGCTGCGCGTCACAAGGCTGGGCATTGCAAAAGTCGCTGTTTTTATTTGCGCTTACCGTGCCGGAACGCCAGGCTCTATGCCGTGAATTACAGCGCCTGATTAACCCAGAGGAAGACCGTCTTCTTTGCCTGCCGTTTGACACCCCATCCGGCAGTTTTCACCTTGGCCCTCGATCGGATTACTTACTCATTCACTCCGACCCGCGCCTGAATGATTTTGTATTTTAAACACACAACCGGCACACTCTTTGCTTATTTTACCCTCTGAACCCGCCACCACCCGACGGGCCAATTTTTTGCACAAAAAACCAACAGAAATAAAATCACGTCAATAACAACACACGTGACATCAGGTCGTTAGCGCCACGACGTTTGCACTGGCACCAGTTTTGCTTAAAAACGTGCTTTTTGAGGCGAGAAAAACAGAAAAAACAGGGTTTGCTTGATCAAATAAAAACAATGGGTTATAAATTTTCATT
+# Right flank :  TCCACCGGACGGTTTTCCGCTCATTCTCAAATTTTCCTTATCCGTTGATAGGCATTTCGGCTGAAATTTCGTATGGTTAAACCCATTACGGGCGGGCAACGTGGCGCGCCCCTTTTGGCACAAGGAGATGTCAATGAACTGGCTTGCCGCCTCTTGCCATGTGGCTGCCTTTGCGCTGTTACATAACCTGAAACCGCTGGCGCAGCGTGCCGGCATTCAGGATTTCCCGTCACCGGCGCTGGCAAACAAACTGTTTGCGCCGCTGCCGGAAAGCCTCTCGGCCCGTGCGGATCTGCACGAAAATACATTAACCCTGCTATTGGATTTCGCCGCCAGACTGGCGCGCGGCCTGCCGGAGACGCCCGTAAGCCGTGGCGAAACCGGGCTGATACCGCTCACCCACCTGTTAGCGGACGATAACCACAGCGCCCCGGCGGAGCGCTGTTACAGCCCACTGGCCCCGCTGGGGGTCGATTCGCTGATGCCGGTGACGGCAGCGT
+
+# Questionable array : NO	 Score: 8.39
+# 	Score Detail : 1:1, 2:3, 3:0, 4:0.89, 5:0, 6:1, 7:0.50, 8:1, 9:1,
+# 	Score Legend : 1: cas, 2: likely_repeat, 3: motif_match, 4: overall_repeat_identity, 5: one_repeat_cluster, 6: exp_repeat_length, 7: exp_spacer_length, 8: spacer_identity, 9: log(total repeats) - log(total mutated repeats),
+# Primary repeat :     GTCCTTACGGACGCTCCCTGACTGAAGGGATTAAGAC
+# Alternate repeat :   NA
+
+# Directional analysis summary from each method:
+# 	Motif ATTGAAA(N) match prediction:         NA Score: 0/4.5
+# 	A,T distribution in repeat prediction:     R [8,9] Score: 0.37/0.37
+# 	Reference repeat match prediction:         NA 
+# 	Secondary Structural analysis prediction:  R [-6.10,-7.50] Score: 0.37/0.37
+# 	Array degeneracy analysis prediction:      R [9-0] Score: 0.41/0.41
+# 	AT richness analysis in flanks prediction: R [53.3-75.0]%AT Score: 0.27/0.27
+# 	Longer leader analysis prediction:         NA [135,252] Score: 0/0.18
+# 	----------------------------------------------------------------------------
+# 	Final direction:         R [0,1.42   Confidence: HIGH] 
+
+# Identified Cas genes:  Cas1:WP_021014796 [1384742-1385623]; Cas6:WP_021014789 [1376148-1377071]; III A Cas10:WP_021014794 [1380891-1383341]; III A Csm2:WP_021014793 [1380483-1380866]; III A RAMP Csm3:WP_021014792 [1379724-1380470]; 
+# Array family : NA
+# Sequence source strain : ATCC 39006
+# Taxonomy hierarchy : Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;Yersiniaceae; Serratia.; Serratia sp. ATCC 39006
+//
+
+

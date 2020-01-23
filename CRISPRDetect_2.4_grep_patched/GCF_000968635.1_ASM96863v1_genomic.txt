@@ -1,0 +1,175 @@
+Array 1 223974-224368 		**** Predicted by CRISPRDetect 2.4 *** 
+>NZ_JXTT01000013-Salmonella enterica subsp. salamae strain RKS2993 SSLM_0013, whole		Array_Orientation: Forward
+
+  Position	Repeat	   %id	Spacer	Repeat_Sequence              	Spacer_Sequence                 	Insertion/Deletion
+==========	======	======	======	=============================	================================	==================
+    223974	    29	 100.0	    32	.............................	ATCAACGGTGCCTTCTTCAGCATTGAAATCAG	
+    224035	    29	 100.0	    32	.............................	GGCAATTCTCGACGGGCGGAAAACGCAGACGC	
+    224096	    29	 100.0	    32	.............................	CGCGCCAGTCATGGCTGACGTCAGCATTACCC	
+    224157	    29	 100.0	    32	.............................	GGGTTATTGAGGTTTCCACGCGGAAAGTGAAC	
+    224218	    29	 100.0	    32	.............................	GCGCGAATGCCCAAAAAGCGGCGCGCCAAAAT	
+    224279	    29	 100.0	    32	.............................	TTAGAGCGTGATGCTCGCGGTGGTACTCGTTA	
+    224340	    29	 100.0	     0	.............................	|                               	
+==========	======	======	======	=============================	================================	==================
+         7	    29	 100.0	    32	GTGTTCCCCGCGAGAGCGGGGATAAACCG	                                	       
+
+# Left flank :   TGCTGTTCCCGTTCTCGCGTCTGGTGCATATCTGGAGCGTGCCGGTTGAGTATCTGACCCGTAAATATCAGCTTGTTCGCGCACGTCACTGATTGTGTGCTGATTATCTCAAGCCGCCGTGGGGCTGAGGCGTATTTAGCACTATAGCGGGAAAATAGCGCGGGCATGGAGATTGACTTCATGCCCGTTTTTTTGCATTTCCTATCGGGCTCATCCCGTATCTCACGACCTGCCGCAGACGCTCCCTTGAGCTCTTTGCCGACGATATGCGCAAGATCTTACTCCCTCTTGATGTGATGATGTATTAATCCCCGAATTTTCCGTCATACGACACTCGGCATAGTATGTTGGTAGATTTTAAGAGAGAATCATGGGCGTGGTTTTTTATTATATGAAATCAATTGGTTATATGCTCTTTAATAATGCGGTATTGTTATTTATGTGTTGGTAAGATGTTGCTGTGTGAAAATGTTGTTTATAAACATAGGGATGGCACTAGA
+# Right flank :  GGGATGGGCTGTAACACAAAGCAATATTAAGAAGTGTTCCCCGCGCGAGCGCTGAGTTTGTGGGGTTAGTTCACTCCGGCTGGTTTTTTATGGCTGTTTGCCGGATGGCGGCGTAAATGCCTTATCCGGCACCGATCTTATCTCGGCGTTGCCTATTTTTATAGTGAAGGCATGCCTCAGGATTATCGTCAGCTTCTCATCCTTCCCCGTACGGAGAAATATGAGGCAGTGTGCTTAACGGGGATAATATATGCGACGGAAGTGATGGTGGTGGGGGAAGGATTATTCGTCGCTCCGCTCCTCACCTTCGGGTCGTTGCCTGCGGCAACGCTTTCTCGCTGCACTCGAATCGAACCTTAGTCGAAGCTTCTCACCCTTCCCTGTATGGAGAGATATGAGGCAGTGTGCTTAACGGGATAATATATGCGACGGAAGTGATGGTGGTGGGGGAAGGATTATTCGTCGCTCCGCTCCTCACTCTTCGGGTCGTTGCCTGCGGC
+
+# Questionable array : NO	 Score: 8.21
+# 	Score Detail : 1:0, 2:3, 3:0, 4:1.00, 5:0, 6:1, 7:1.21, 8:1, 9:1,
+# 	Score Legend : 1: cas, 2: likely_repeat, 3: motif_match, 4: overall_repeat_identity, 5: one_repeat_cluster, 6: exp_repeat_length, 7: exp_spacer_length, 8: spacer_identity, 9: log(total repeats) - log(total mutated repeats),
+# Primary repeat :     GTGTTCCCCGCGAGAGCGGGGATAAACCG
+# Alternate repeat :   NA
+
+# Directional analysis summary from each method:
+# 	Motif ATTGAAA(N) match prediction:         NA Score: 0/4.5
+# 	A,T distribution in repeat prediction:     F [6,4] Score: 0.37/0.37
+# 	Reference repeat match prediction:         F [matched GTGTTCCCCGCGAGAGCGGGGATAAACCG with 100% identity] Score: 4.5/4.5
+# 	Secondary Structural analysis prediction:  F [-13.50,-12.00] Score: 0.37/0.37
+# 	Array degeneracy analysis prediction:      NA [0-0] Score: 0/0.41
+# 	AT richness analysis in flanks prediction: F [63.3-50.0]%AT Score: 0.27/0.27
+# 	Longer leader analysis prediction:         R [410,1031] Score: 0.18/0.18
+# 	----------------------------------------------------------------------------
+# 	Final direction:         F [5.51,0.18   Confidence: HIGH] 
+
+# Identified Cas genes:  NA
+# Array family : I-E [Matched known repeat from this family],   
+# Sequence source strain : RKS2993
+# Taxonomy hierarchy : Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;Enterobacteriaceae; Salmonella.; Salmonella enterica subsp. salamae
+//
+
+
+Array 1 160484-157647 		**** Predicted by CRISPRDetect 2.4 *** 
+>NZ_JXTT01000045-Salmonella enterica subsp. salamae strain RKS2993 SSLM_0045, whole		Array_Orientation: Reverse
+
+  Position	Repeat	   %id	Spacer	Repeat_Sequence              	Spacer_Sequence                  	Insertion/Deletion
+==========	======	======	======	=============================	=================================	==================
+    160483	    29	 100.0	    32	.............................	CCACTATTATTCATATTGTGAGTCACCTTACT 	
+    160422	    29	 100.0	    32	.............................	ATGTATTCACTCTGTTTACCAGTACCCTGTAT 	
+    160361	    29	 100.0	    32	.............................	TCAATGGACATCGCAAAATGGGTTTGCTCCAC 	
+    160300	    29	 100.0	    32	.............................	GTGGTACCGAAATGATTTATCCAACCAGTACC 	
+    160239	    29	 100.0	    32	.............................	CTGGCGTGGGATGGTTTTATTAACTGTGCCTC 	
+    160178	    29	 100.0	    32	.............................	TCGTGTACCGCAGGAACTCAGCGATGAAGAGC 	
+    160117	    29	 100.0	    32	.............................	GCTTATGGTTGCCGAGCAGGTGAACTATTATA 	
+    160056	    29	 100.0	    32	.............................	TTCTCCAAACGTCATCCGACCGTGTGTTCGTA 	
+    159995	    29	 100.0	    32	.............................	ATTTTTTCTGCCCTCGACTGACGATTCTGACG 	
+    159934	    29	 100.0	    32	.............................	CGGGGTGTGTCATGCCTGAACTGGCCGGATTT 	
+    159873	    29	 100.0	    32	.............................	TTTTCATTTCAGATAAGAGCACGCACGCCTCC 	
+    159812	    29	 100.0	    32	.............................	CTCAGAACTCCCGTAGAGCAGCAGGGGAATCC 	
+    159751	    29	 100.0	    32	.............................	GTATTTAGCGAGGGTTTTTGCACCGCTTGCGA 	
+    159690	    29	 100.0	    33	.............................	CGCCGCCACTGCATAACACAAAACCCGTTTCAC	
+    159628	    29	 100.0	    32	.............................	AATGGCTGAAACGGTTGCACTCAGCGAGAAAA 	
+    159567	    29	 100.0	    33	.............................	GGAGTTTCACCAGCGACTGGTCAATTGCATCTT	
+    159505	    29	 100.0	    32	.............................	TGTAAAAATGTGGGGGGATAGTGCCTTTTCGA 	
+    159444	    29	 100.0	    32	.............................	TTGCTCACTTCCCTGTTTGAGGCGTGGATTTA 	
+    159383	    29	 100.0	    32	.............................	CTCCGGCAACAATATTGCCGGTAAACGATTAT 	
+    159322	    29	 100.0	    32	.............................	CATACATTGCCGAGTTCGACCGCATGGAGAAC 	
+    159261	    29	 100.0	    32	.............................	GGTTGGTAACAGGTTGGGTTGCGTATTAGAAA 	
+    159200	    29	 100.0	    32	.............................	AGTTGTTTGTCGCGGGATTCAGCCTGGCTGAA 	
+    159139	    29	 100.0	    32	.............................	GCGAGAACGTTGGTAGTGTTAACTATAAAATG 	
+    159078	    29	 100.0	    32	.............................	ATTTTGCGTCTTGGCGACAATTTAATGTACGA 	
+    159017	    29	 100.0	    32	.............................	GTGATAGCAAGTCCGGATTCCGTGACAATAAT 	
+    158956	    29	 100.0	    32	.............................	CAGGTATACAACAATTTGCAGAACTGGATCAG 	
+    158895	    29	 100.0	    32	.............................	CGCCGTAAAATCGAACGGGCGACGGTCCTGGA 	
+    158834	    29	 100.0	    32	.............................	GTCAGTTCAACAAACACCACGACGCGGGAATT 	
+    158773	    29	 100.0	    32	.............................	TCACCGGCGTCGATATGAACCGCAATAACCAT 	
+    158712	    29	 100.0	    32	.............................	AACACTACCGCAATCGCTATCGCCGCCAATAT 	
+    158651	    29	 100.0	    32	.............................	CTGACAGTTACGATGCTTTCTATCTGCTTCAC 	
+    158590	    29	 100.0	    32	.............................	CCTTGCGGCGTTTCTGTAGTTCGCGCAGGGCC 	
+    158529	    29	 100.0	    32	.............................	GCTGGTTTTAACCCACTGCTAGTAAAACGATA 	
+    158468	    29	 100.0	    32	.............................	CCTATATTCTGGAGTTCGGTGATAAATATATT 	
+    158407	    29	 100.0	    32	.............................	TTAGGGAGAGAACTAGGTTACTCACAGACCAG 	
+    158346	    29	 100.0	    32	.............................	CCTCCGCATCGAAATTTGCGGAGTGGATATTA 	
+    158285	    29	 100.0	    32	.............................	CACTCTCAGATTGGACTCGTCATTGTTGTCAA 	
+    158224	    29	 100.0	    32	.............................	GTCATATGCCAGGCCAAGTAGCGCCTCCATCT 	
+    158163	    29	 100.0	    32	.............................	CAAGAGAGTTTGTCGGTGATATCTGCGGCTCA 	
+    158102	    29	 100.0	    32	.............................	GTGATAGCAAGTCCGGATTCCGTGACAATAAT 	
+    158041	    29	 100.0	    32	.............................	CAGGTATACAACAATTTGCAGAACTGGATCAG 	
+    157980	    29	 100.0	    32	.............................	CGCCGTAAAATCGAACGGGCGACGGTCCTGGA 	
+    157919	    29	 100.0	    32	.............................	CAGTGAAGGCCGGTGGCGAGGAATGGCAGTCA 	
+    157858	    29	 100.0	    32	.............................	CCCTTTCTCCATACTTCATCTGAATAGTTAAT 	
+    157797	    29	 100.0	    32	.............................	TGGCGCGCCAATCCGCCTTCGGTGCGTATCAC 	
+    157736	    29	  96.6	    32	............T................	AATACGCAAAGCTGATTTTGTCGAACAGTGCG 	
+    157675	    29	  89.7	     0	............T..............GC	|                                	
+==========	======	======	======	=============================	=================================	==================
+        47	    29	  99.7	    32	GTGTTCCCCGCGCCAGCGGGGATAAACCG	                                 	       
+
+# Left flank :   CTTATTGAGGATGTGCTCGCGGCAGGTGAAATTCAACCGCCGTTACCTCCAGAAGATTCACAACCCATAGCGATCCCTCTTCCTGTTGCTTTGGGGGATTCCGGTCATCGGAGTAACTGACGATGAGTATGCTAGTGGTGGTTACCGAAAATGTTCCTCCGCGCCTGCGAGGAAGGCTGGCCGTCTGGCTACTGGAAATTCGGGCTGGTGTGTATGTTGGTGATGTTTCAGCAAAGATCCGCGAGATGATATGGCAACAGGTTTCCGTTCTGGCAGATGAGGGAAATGTTGTTATGGCGTGGGCGACAAATACAGAATCAGGTTTTGAGTTTCAGACTTTTGGTGAAAACCGACGTATTCCGGTAGATCTTGATGGACTGCGATTGGTGTCGTTTCTGCCTGTTGCAAATCAATAAGTTAGAGATCTTTAAAAATAAGGAAAAGTTGGTGGATTTTTTGTATGCTAAAAACGGCTTTAAATTCAATTGGGTAGATTTAGA
+# Right flank :  TTTTCACCAGCAGATCAGGACGTTTTTTCCGCCTTCGCCAGCTCTTTTACCAACGGCAGCATTATCCGCACTACATCGCGGCTACGGCGTTCAATCCGTCCTGGCAGCGCCTTGTCAATATGCTGTTGATTATCAAGCCGTACGTCGTGCCAGCTATTGCCGTTCGGGAAGGATGCATTTTTCACGCGTTGCTGGTATCCGTCTTTTTTACCCAGATTCCAGTTCGTCGCCTCAACAGAAAGCACCGACATTCCTGCTTTATCGAAAACCTCCGCATCATTACAGCAACCCGTTCCTTTGGGGTAGGACGGATTGCGTCCCGGATTGGTGTTGGCGGCGATACCATAACTGCGCGCAATCGCTAATGCCCGATCGCGGGTCAGTGTACGCACCGCTTCCGGCGTATTTTTCCCGCTATTAAAATAGAGCTTGTCGCCAACAATCAGGTTATCGAGATTAATGACCAGCAGCGTATTTTTCTTCTCTGCGTCGCTCATTCG
+
+# Questionable array : NO	 Score: 9.00
+# 	Score Detail : 1:1, 2:3, 3:0, 4:0.99, 5:0, 6:1, 7:1.01, 8:1, 9:1,
+# 	Score Legend : 1: cas, 2: likely_repeat, 3: motif_match, 4: overall_repeat_identity, 5: one_repeat_cluster, 6: exp_repeat_length, 7: exp_spacer_length, 8: spacer_identity, 9: log(total repeats) - log(total mutated repeats),
+# Primary repeat :     GTGTTCCCCGCGCCAGCGGGGATAAACCG
+# Alternate repeat :   NA
+
+# Directional analysis summary from each method:
+# 	Motif ATTGAAA(N) match prediction:         NA Score: 0/4.5
+# 	A,T distribution in repeat prediction:     R [4,5] Score: 0.37/0.37
+# 	Reference repeat match prediction:         R [matched GTGTTCCCCGCGCCAGCGGGGATAAACCG with 100% identity] Score: 4.5/4.5
+# 	Secondary Structural analysis prediction:  R [-12.00,-13.50] Score: 0.37/0.37
+# 	Array degeneracy analysis prediction:      R [4-0] Score: 0.41/0.41
+# 	AT richness analysis in flanks prediction: R [48.3-70.0]%AT Score: 0.27/0.27
+# 	Longer leader analysis prediction:         R [16,85] Score: 0.18/0.18
+# 	----------------------------------------------------------------------------
+# 	Final direction:         R [0,6.1   Confidence: HIGH] 
+
+# Identified Cas genes:  Cas3:WP_046094026 [167628-170321]; Cas6e:WP_046094015 [161781-162485]; Cas7:WP_046094017 [163220-164278]; Cse1:WP_046094019 [164920-166455]; Cse2:WP_046094018 [164301-164903]; Endonuclease Cas1:WP_000118673 [160864-161781]; Endonuclease Cas2:WP_000062280 [160568-160861]; 
+# Array family : I-E [Matched known repeat from this family], I-E [Cas3,Cse1] [Prediction based on the presence of specific Cas genes]
+# Sequence source strain : RKS2993
+# Taxonomy hierarchy : Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;Enterobacteriaceae; Salmonella.; Salmonella enterica subsp. salamae
+//
+
+
+Array 2 178726-177781 		**** Predicted by CRISPRDetect 2.4 *** 
+>NZ_JXTT01000045-Salmonella enterica subsp. salamae strain RKS2993 SSLM_0045, whole		Array_Orientation: Reverse
+
+  Position	Repeat	   %id	Spacer	Repeat_Sequence              	Spacer_Sequence                  	Insertion/Deletion
+==========	======	======	======	=============================	=================================	==================
+    178725	    29	 100.0	    32	.............................	CTAATGAAATTTGGCTTGATGCCGCAAACAAA 	
+    178664	    29	 100.0	    32	.............................	CAATGTTAGTTTCTCAAACTACGAAACGGAAT 	
+    178603	    29	 100.0	    32	.............................	CCGACTTTATGATGTGATGGCCCGAACAAAGT 	
+    178542	    29	 100.0	    32	.............................	CACTCTCAGATTGGATTCGTCATTGTTGTCAA 	
+    178481	    29	 100.0	    32	.............................	TATGCGGCAACGTTGAGTCTGATTTTGTATGT 	
+    178420	    29	 100.0	    32	.............................	ATGCCCCTGCATTTAACTACGAGTAAATTTTA 	
+    178359	    29	 100.0	    32	.............................	CCGCCTCCCCACAAAACGGACAGGGTAATAAA 	
+    178298	    29	 100.0	    33	.............................	ATAACTTCTGTAATAATCAAGAATAACTAAGGC	
+    178236	    29	 100.0	    32	.............................	GTTTCACCCTCTACGCGCTCAGGTGGGACAGT 	
+    178175	    29	 100.0	    32	.............................	CAGAGGCACACCGTTATTGACTGCATGGTGAA 	
+    178114	    29	 100.0	    32	.............................	CGATCTCCTGACGCTCCGCGACCAGTTCAGGC 	
+    178053	    29	 100.0	    32	.............................	GGGATTCTGCTGGATATAGATTCACCTGGCGG 	
+    177992	    29	  96.6	    32	..........................T..	GATGGCGAGTGGCCCATCGATAATGGAGTCAT 	
+    177931	    29	  96.6	    32	...........................T.	GAGTCCATAGCCCCGCTAAACAGCATGGAAGA 	
+    177870	    29	  96.6	    32	............................C	TGTATGTCGTTAATATGGGGATCGCTGAGGTC 	
+    177809	    29	  72.4	     0	....C.......TC..........GCAGT	|                                	
+==========	======	======	======	=============================	=================================	==================
+        16	    29	  97.6	    32	GTGTTCCCCGCGCTAGCGGGGATAAACCG	                                 	       
+
+# Left flank :   ATAAACCGTTATAAAACGGCAATCACTGTAATGAAATAA
+# Right flank :  AGCATAATCATAATCTGTGTACCAGTAATGGCCGGTACAAACCTGTAAAGTAAAAAGGCCGCATTTTCTCAGGGAGGCTTTTATACAGGAGAAAGCCATGGCGTTAACGATCAGGGTATTGCTCGAAAATCATAAGGGAGCTGGAGCGGATAAATCATTAAGGGCCAGACCAGGATTAAGCCTGTTGGTCCAGGATGAGTCTACGTCGATCTTGTTCGACACCGGCCCTGATGGCAGTTTTATGCAAAACGCGTTGGCGATGGGGATCGACTTGTCCGATGTGTCTGCTGTGGTGCTTTCGCATGGTCATTACGATCATTGCGGCGGCGTGCCGTGGCTTCCTGATAACAGTCGAATCATCTGCCATCCAGATATTGCGCGCGAACGCTATGCGGCAATGACTTTTCTCGGTATTACCCGAAGAATAAAAAAATTGTCGCGTGAGGTGGACTATTCACGCTACCGAATGGTGTACACGCGTGACCCTCTGCCGATTGGCG
+
+# Questionable array : NO	 Score: 8.92
+# 	Score Detail : 1:1, 2:3, 3:0, 4:0.88, 5:0, 6:1, 7:1.04, 8:1, 9:1,
+# 	Score Legend : 1: cas, 2: likely_repeat, 3: motif_match, 4: overall_repeat_identity, 5: one_repeat_cluster, 6: exp_repeat_length, 7: exp_spacer_length, 8: spacer_identity, 9: log(total repeats) - log(total mutated repeats),
+# Primary repeat :     GTGTTCCCCGCGCTAGCGGGGATAAACCG
+# Alternate repeat :   NA
+
+# Directional analysis summary from each method:
+# 	Motif ATTGAAA(N) match prediction:         NA Score: 0/4.5
+# 	A,T distribution in repeat prediction:     NA [5,5] Score: 0.37/0.37
+# 	Reference repeat match prediction:         R [matched GTGTTCCCCGCGCTAGCGGGGATAAACCG with 100% identity] Score: 4.5/4.5
+# 	Secondary Structural analysis prediction:  R [-12.00,-13.50] Score: 0.37/0.37
+# 	Array degeneracy analysis prediction:      R [11-0] Score: 0.41/0.41
+# 	AT richness analysis in flanks prediction: F [60.0-46.7]%AT Score: 0.27/0.27
+# 	Longer leader analysis prediction:         F [99,41] Score: 0.18/0.18
+# 	----------------------------------------------------------------------------
+# 	Final direction:         R [0.45,5.28   Confidence: HIGH] 
+
+# Identified Cas genes:  Cas3:WP_046094026 [167628-170321]; Cas6e:WP_046094015 [161781-162485]; Cas7:WP_046094017 [163220-164278]; Cse1:WP_046094019 [164920-166455]; Cse2:WP_046094018 [164301-164903]; Endonuclease Cas1:WP_000118673 [160864-161781]; Endonuclease Cas2:WP_000062280 [160568-160861]; 
+# Array family : I-E [Matched known repeat from this family], I-E [Cas3,Cse1] [Prediction based on the presence of specific Cas genes]
+# Sequence source strain : RKS2993
+# Taxonomy hierarchy : Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;Enterobacteriaceae; Salmonella.; Salmonella enterica subsp. salamae
+//
+
+

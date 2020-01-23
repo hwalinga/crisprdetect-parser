@@ -100,6 +100,6 @@ $ sed -i 's/grep -w '\''\$a/grep -wF '\''\$a/g; s/grep '\''\$a/grep -F '\''\$a/g
 ```
 
 Instead of trying to download CRISPRDetect from the above link (which can be
-tricky sometimes as the server is in new zealand), you can also get the program
+tricky sometimes as the server is in New Zealand), you can also get the program
 from this repo. It is located in the `CRISPRDetect_2.4_grep_patched` folder
 and also has the grep patch applied to it. 

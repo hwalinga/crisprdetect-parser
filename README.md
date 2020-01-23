@@ -35,6 +35,7 @@ $ python crisprdetectparser.py --help
 ```
 
 ----
+
 ```
 usage: CRISPRDetect parser [-h] [--spacers-directory [SPACERS_DIRECTORY]]
                            [--out OUT] [--sep SEP]
@@ -45,12 +46,12 @@ usage: CRISPRDetect parser [-h] [--spacers-directory [SPACERS_DIRECTORY]]
 
 Run this progrom on CRISPRDetect output files to extract the spacers and the
 metadate about the CRISPR arrays. The program can process the CRISPR array
-files with sufficient quality score (with the .crisprdetect extension), but
-also the array files with a score below the required quality score (with the
-.crisprdetect.fp extension)
+files with sufficient quality score, but also the array files with a score
+below the required quality score (with the .fp extension).
 
 positional arguments:
-  files                 All the .crisprdetect(.fp) output files.
+  files                 All the crisprdetect(with or without .fp) output
+                        files.
 
 optional arguments:
   -h, --help            show this help message and exit
@@ -63,7 +64,7 @@ optional arguments:
                         already exist it will append.
   --sep SEP             Seperator in the metadata file. (Default: tab)
   --crisprdetect-extension CRISPRDETECT_EXTENSION
-                        Extension of crisperdetect files that is cut-off for
+                        Extension of crisperdetect files that is cut off for
                         genome name. (Default: crisprdetect)
   --spacers-extension SPACERS_EXTENSION
                         Extension string of the spacers fasta file. (Default:

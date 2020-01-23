@@ -1,5 +1,3 @@
-# WIP; ETA: few days
-
 # CRISPRDetect Parser
 
 In this repo you can find a parser that extracts the spacers and the metadata
@@ -7,7 +5,7 @@ from a CRISPRDetect output file.
 
 # Usage
 
-You can use the program as such:
+You can use the program as such: (NB. Here I use the extension `.crisprdetect`. You can have a different extension.):
 
 ```sh
 $ python crisprdetectparser.py -s spacers genome1.crisprdetect genome2.crisprdetect > metadata.tsv
@@ -19,18 +17,18 @@ spacers folder and will output to metadata.tsv.
 If you have a lot files, use wildcards:
 
 ```sh
-$ python crisprdetectparser.py -s spacers *.crisprdetect > metadata.tsv
+$ python crisprdetectparser.py -s spacers *.crisprdetect{,.fp} > metadata.tsv
 ```
 
-If you really hava a lot of files, use `xargs`.
+If you really have a lot of files, use `xargs`. 
 
 ```sh
-$ find . -name '*.crisprdetect' | xargs python crisprdetectparser.py -s spacers > metadata.tsv
+$ find . -name '*.crisprdetect' -o -name '*.crisprdetect.fp' | xargs python crisprdetectparser.py -s spacers > metadata.tsv
 ```
 
 # More help
 
-For more detailed instructions on the command line arguments:
+For more detailed instructions on the command-line arguments:
 
 ```sh
 $ python crisprdetectparser.py --help
@@ -74,23 +72,28 @@ optional arguments:
                         quality_score repeat_sequence
 ```
 
-# CRISPRDetect
+# Install CRISPRDetect
 
 Get the most recent version of CRISPRDetect from http://crispr.otago.ac.nz/CRISPRDetect/CRISPRDetect_help.html
 
-This program only works on a unix system (OSX, Linux, BSD). You can install dependencies using brew (https://brew.sh/)
+This program only works on a unix system (OSX, Linux, BSD). 
+
+You could install dependencies using brew (https://brew.sh/):
 
 ```sh
-$ brew blast emboss cd-hit viennarna clustal-w 
+$ brew install blast emboss cd-hit viennarna clustal-w 
 ```
 
+(You have to symlink clustalw to clustalw2)
+
 NB. The perl program uses an external grep command a few times. If you have 
-genome names that can be interpreted as regex, this will fail. Therefore it 
-is best if the external grep command uses the -F flag. You can change that 
+genome names that can be interpreted as regex, this will create incorrect output. 
+Therefore it is best if the external grep command uses the -F flag. You can change that 
 in the program using:
 
 ```sh
 $ sed -i 's/grep/grep -F/g' CRISPRDetect.pl
+$ sed -i 's/grep -w '\''\$a/grep -wF '\''\$a/g; s/grep '\''\$a/grep -F '\''\$a/g' CD_MODULES/CRISPRDETECT_SUBS_1.pm 
 ```
 
 Instead of trying to download CRISPRDetect from the above link (which can be

@@ -28,11 +28,13 @@ ap = argparse.ArgumentParser(
     prog="CRISPRDetect parser",
     description="Run this progrom on CRISPRDetect output files to extract"
     " the spacers and the metadate about the CRISPR arrays."
-    " The program can process the CRISPR array files with sufficient quality score"
-    " (with the .crisprdetect extension), but also the array files with"
-    " a score below the required quality score (with the .crisprdetect.fp extension)",
+    " The program can process the CRISPR array files with sufficient quality score,"
+    " but also the array files with"
+    " a score below the required quality score (with the .fp extension).",
 )
-ap.add_argument("files", nargs="*", help="All the .crisprdetect(.fp) output files.")
+ap.add_argument(
+    "files", nargs="*", help="All the crisprdetect(with or without .fp) output files."
+)
 ap.add_argument(
     "--spacers-directory",
     nargs="?",
@@ -55,7 +57,7 @@ ap.add_argument(
 ap.add_argument(
     "--crisprdetect-extension",
     default="crisprdetect",
-    help="Extension of crisperdetect files that is cut-off for genome name."
+    help="Extension of crisperdetect files that is cut off for genome name."
     " (Default: crisprdetect)",
 )
 ap.add_argument(

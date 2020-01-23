@@ -35,12 +35,12 @@ $ python crisprdetectparser.py --help
 ```
 
 ----
-
 ```
 usage: CRISPRDetect parser [-h] [--spacers-directory [SPACERS_DIRECTORY]]
                            [--out OUT] [--sep SEP]
                            [--crisprdetect-extension CRISPRDETECT_EXTENSION]
                            [--spacers-extension SPACERS_EXTENSION] [--header]
+                           [--force]
                            [files [files ...]]
 
 Run this progrom on CRISPRDetect output files to extract the spacers and the
@@ -59,7 +59,8 @@ optional arguments:
                         files that contain the spacer sequences for each
                         genome. Leave out if you don't want to extract the
                         spacers.
-  --out OUT             Output file, if left out or '-', this will be stdout.
+  --out OUT             Output file, if left out, this will be stdout. If file
+                        already exist it will append.
   --sep SEP             Seperator in the metadata file. (Default: tab)
   --crisprdetect-extension CRISPRDETECT_EXTENSION
                         Extension of crisperdetect files that is cut-off for
@@ -70,6 +71,7 @@ optional arguments:
   --header              Output file with a header: genome contig array_id
                         begin end orientation number_of_spacers array_family
                         quality_score repeat_sequence
+  --force               Overwrite existing files.
 ```
 
 # Install CRISPRDetect

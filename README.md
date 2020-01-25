@@ -87,7 +87,7 @@ You could install dependencies using brew (https://brew.sh/):
 $ brew install blast emboss cd-hit viennarna clustal-w 
 ```
 
-(You have to symlink clustalw to clustalw2)
+However, the program already bundles pre-compiled versions of these dependencies, so you can also add these to your PATH. (The only one you have to install yourself is blast.)
 
 NB. The perl program uses an external grep command a few times. If you have 
 genome names that can be interpreted as regex, this will create incorrect output. 
